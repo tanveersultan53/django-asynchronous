@@ -1,0 +1,1 @@
+[Modernizing Django REST Framework with Asynchronous Views and Middleware](https://medium.com/django-unleashed/modernizing-django-rest-framework-with-asynchronous-views-and-middleware-0a9d3ac75428) - A useful article on modernizing Django REST Framework with asynchronous views and middleware.
