@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (myproject)" />
+  </component>
+  <component name="GitLabDefaultAccount">
+    <option name="defaultAccountId" value="151c40b8-9059-4992-b54e-c9cb756c5690" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (myproject)" project-jdk-type="Python SDK" />
+</project>
